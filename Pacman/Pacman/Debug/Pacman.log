@@ -1,0 +1,49 @@
+﻿Build started 23/11/2014 19:20:24.
+     1>Project "D:\Users\Alisdair Wright\Documents\GitHub Repositories\PacShooter\Pacman\Pacman\Pacman.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(388,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (Pacman.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp Pacman.cpp
+         Pacman.cpp
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(7): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(174): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(189): warning C4154: deletion of an array expression; conversion to pointer supplied
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(290): warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(321): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(331): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(339): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(353): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(405): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(712): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(713): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(752): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(767): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(774): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(789): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(795): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(839): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(934): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(955): warning C4244: 'argument' : conversion from 'int' to 'const float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1021): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1109): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1124): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1131): warning C4305: '+=' : truncation from 'double' to 'float'
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1136): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1210): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1260): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1273): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1277): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1337): warning C4244: 'argument' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1343): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+     1>d:\users\alisdair wright\documents\github repositories\pacshooter\pacman\pacman\pacman.cpp(1396): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+         main.cpp
+         Generating Code...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Users\Alisdair Wright\Documents\GitHub Repositories\PacShooter\Pacman\Debug\PacShooter.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Users\Alisdair Wright\Documents\GitHub Repositories\PacShooter\Pacman\Debug\PacShooter.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Users\Alisdair Wright\Documents\GitHub Repositories\PacShooter\Pacman\Debug\PacShooter.lib" /MACHINE:X86 Debug\main.obj
+         Debug\Pacman.obj
+         Debug\Player.obj
+         Pacman.vcxproj -> D:\Users\Alisdair Wright\Documents\GitHub Repositories\PacShooter\Pacman\Debug\PacShooter.exe
+     1>Done Building Project "D:\Users\Alisdair Wright\Documents\GitHub Repositories\PacShooter\Pacman\Pacman\Pacman.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:01.44
